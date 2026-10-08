@@ -10,7 +10,5 @@ AI agents support my implementation work. I take responsibility for the process,
 
 - [bOS](https://github.com/zmrlk/bOS) - a file-based working environment for AI assistants, with context, reusable skills and documented limits of its controls.
 - [Meport](https://github.com/zmrlk/meport) - a portable profile for working with different AI tools. [Website and downloads](https://meport.app/).
-- STAGO - business processes and a system connecting sales, production and warehouse work, with Subiekt nexo integration.
-- B2B systems - customer catalogues, commercial terms, orders and ERP integrations. Client names and operational data remain private.
 
 [ISIKO](https://isiko.pl/) · [LinkedIn](https://www.linkedin.com/in/karol-zamarlik-416b68184/)
